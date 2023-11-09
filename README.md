@@ -5,4 +5,4 @@
 - Estou me desenvolvendo na linguagem JavaScript
 - Uso o espaço para organização e compartilhamento de projetos
 
-![](https://tenor.com/view/sponge-bob-sponge-bob-mail-postman-election-day-vote-gif-18099193)
+
